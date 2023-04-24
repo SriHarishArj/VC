@@ -1,0 +1,18 @@
+Git three parts
+
+1. Working directory
+2. Staging area
+3. Local repository
+
+
+Initialize local repository using git init command.
+
+
+Files will be moved from Working directory to staging area and from staging area to local repository (on commit)
+
+From Working directory to Staging area --> git add . (. represents all files)
+From Staging area to Local repository --> git commit -m "give any save point message"
+
+git logs --> to see the commit logs
+
+git checkout <filename> --> to revert the file to last saved version
