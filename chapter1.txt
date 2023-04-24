@@ -1,0 +1,12 @@
+Hi I am Sri Harish
+
+I made this document while learning Version control using git
+
+git init --> to initialize git which helps to track, etc..,
+
+Staging area: to track the file, bring the file to staging area
+command: git add <filename.ext>
+
+git status --> to check which files are in staging area and which are not like that
+
+git commit --> to commit the version
