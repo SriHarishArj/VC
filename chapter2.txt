@@ -15,4 +15,9 @@ From Staging area to Local repository --> git commit -m "give any save point mes
 
 git logs --> to see the commit logs
 
+git diff <filename> --> to see the changes from previous version
+
+
 git checkout <filename> --> to revert the file to last saved version
+
+We have seen how to use version control using git locally
