@@ -1,1 +1,17 @@
 I am chapter 3
+
+
+Command for creating remote:
+git remote add <remote name> <remote repository url>
+Eg: git remote add orgin https://github.com/SriHarishArj/VC.git
+NOTE: Maintain the naming convention: Orgin
+
+
+To push local repository files to remote repository:
+git push -u orgin master
+
+here,
+
+orgin is what your remote repository is called
+master is the branch. Which is a default branch or main branch for all the commits. Will cover more about branching later
+-u --> flag represents link between local repository and remote repository
