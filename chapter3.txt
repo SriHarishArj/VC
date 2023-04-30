@@ -8,6 +8,7 @@ NOTE: Maintain the naming convention: Orgin
 
 
 To push local repository files to remote repository:
+(to push all the commits)
 git push -u orgin master
 
 here,
@@ -15,3 +16,6 @@ here,
 orgin is what your remote repository is called
 master is the branch. Which is a default branch or main branch for all the commits. Will cover more about branching later
 -u --> flag represents link between local repository and remote repository
+
+
+Github personal access token: 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
