@@ -10,3 +10,10 @@ command: git add <filename.ext>
 git status --> to check which files are in staging area and which are not like that
 
 git commit --> to commit the version
+
+
+
+Branching and Merging points (In Master branch):
+1. git branch <branch name> --> to create a branch
+2. git branch --> to check in which branch we are
+3. git checkout <branch name> --> to switch/change the branch
