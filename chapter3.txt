@@ -19,3 +19,14 @@ master is the branch. Which is a default branch or main branch for all the commi
 
 
 Github personal access token: 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
+
+You can have local repository completely in parallel with remote repository. check the differences between them.
+You can also sync them so that they all the same
+You can also sync them or push your local repository to your remote repository
+
+
+In our case the local repository is the .git file that we got in our story directory
+
+remote repository is the git directory that we have got inside our story directory and the remote repository is the git hub which hosts our code and host all of the changes that were made in between different commits
+
+so, git push basically pushes all the commits from local to remote repository
