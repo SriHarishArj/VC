@@ -13,6 +13,7 @@ git commit --> to commit the version
 
 
 
+<<<<<<< HEAD
 Branching and Merging points (In Master branch):
 1. git branch <branch name> --> to create a branch
 2. git branch --> to check in which branch we are
@@ -23,3 +24,10 @@ This merging will be added as commit in the master branch.
 
 
 NOTE: We can create branches and add commits there and we can merge branches
+=======
+Branching and Merging
+
+Branching means creating a branch from the master branch so that we can test/do code changes in that branch without affecting the main branch that is master branch.
+
+Once we satisfy with our work, we can merge the works done in the new branch to the master branch
+>>>>>>> Test1
