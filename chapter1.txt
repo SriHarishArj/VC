@@ -10,3 +10,11 @@ command: git add <filename.ext>
 git status --> to check which files are in staging area and which are not like that
 
 git commit --> to commit the version
+
+
+
+Branching and Merging
+
+Branching means creating a branch from the master branch so that we can test/do code changes in that branch without affecting the main branch that is master branch.
+
+Once we satisfy with our work, we can merge the works done in the new branch to the master branch
